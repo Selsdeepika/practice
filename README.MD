@@ -7,3 +7,4 @@
 - Point 3
 - Point 4
 - Point 5
+- point 6
