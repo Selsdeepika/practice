@@ -8,3 +8,4 @@
 - Point 4
 - Point 5
 - point 6
+- point 7
